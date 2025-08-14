@@ -26,7 +26,7 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 34
-    namespace dev.duynp.flutter_health_connect
+    namespace "dev.duynp.flutter_health_connect"
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
